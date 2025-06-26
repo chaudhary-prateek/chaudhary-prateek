@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/kyechan99/kyechan99/assets/37932418/64fca1d3-232e-4a74-a9a5-d768feddcfd6" width="100%" alt="DevOps Banner" />
+  <img src="https://raw.githubusercontent.com/chaudhary-prateek/chaudhary-prateek/main/Chaudhary-prateek.png" alt="Prateek Chaudhary - DevOps Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Prateek Chaudhary
