@@ -24,9 +24,9 @@
 
 - 🔧 Passionate about automating software delivery using DevOps best practices
 - ☁️ Deploying scalable apps on **AWS** & **Google Cloud (GCP)**
-- 🐳 Containerized workloads using **Docker**, **Kubernetes**, and **Cloud Run**
+- 🐳 Containerized workloads using **Docker**, **AWS Lambda**, and **Cloud Run**
 - 🔁 Built and maintained CI/CD pipelines with **GitHub Actions** and **Jenkins**
-- 🔐 Managed secrets via **AWS Secrets Manager** and **GCP Secret Manager**
+- 🔐 Managed secrets via **AWS Secrets Manager** **Github Secrets** and **GCP Secret Manager**
 - 📦 Experienced with **microservices**, **monorepos**, and **semantic release automation**
 
 ---
@@ -35,9 +35,9 @@
 
 | Category | Tools |
 |---------|-------|
-| **Languages** | Bash, YAML, JavaScript, Python (basic) |
+| **Languages** | Bash, YAML, Python (basic) |
 | **CI/CD** | GitHub Actions, Jenkins, GitLab CI |
-| **Cloud** | AWS (EC2, ECR, ECS, Lambda), GCP (Cloud Run, Artifact Registry) |
+| **Cloud** | AWS (EC2, ECR, ECS, Lambda), GCP (Compute Engine,Cloud Run, Artifact Registry) |
 | **Containers** | Docker, Docker Compose, Kubernetes |
 | **Infra as Code** | Terraform, CloudFormation |
 | **Monitoring** | Prometheus, Grafana, CloudWatch |
@@ -47,13 +47,13 @@
 
 ## 📁 Highlighted Projects
 
-### 🔹 [🔧 DevOps CI/CD Monorepo Setup](https://github.com/your-repo-link)
+### 🔹 [🔧 DevOps CI/CD Monorepo Setup]([https://github.com/your-repo-link](https://github.com/chaudhary-prateek/Deploy-to-AWS-Lambda.git))
 > GitHub Actions + Semantic Release + GCP Cloud Run per microservice module.
 
-### 🔹 [🐳 EC2 + Docker + Jenkins Deployment](https://github.com/your-repo-link)
+### 🔹 [🐳 EC2 + Docker + Jenkins Deployment]([https://github.com/your-repo-link](https://github.com/chaudhary-prateek/Deploy-to-AWS-Lambda.git))
 > Automated Docker deployment of Node.js app using Jenkins and NGINX.
 
-### 🔹 [☁️ GCP Cloud Run with GitHub Actions](https://github.com/your-repo-link)
+### 🔹 [☁️ GCP Cloud Run with GitHub Actions]([https://github.com/your-repo-link](https://github.com/chaudhary-prateek/nextjs-deploy.git))
 > Java app deployment to Cloud Run with secrets and full CI/CD pipeline.
 
 ---
@@ -70,21 +70,10 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:prateekchaudhary7805@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 
 
 
-- 💻 Accepting remote part-time work, please call [me](mailto:gngppz@gmail.com)
-- ☕️ Help me work seamlessly with open source sharing by [sponsoring me on GitHub](https://github.com/0x676e67/gngpp/blob/main/SPONSOR.md)
-- 📫 For private suggestions, paid support, reviews, etc, reach out for:
-
-  [![email](https://img.shields.io/badge/Gmail-green??style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:gngppz@gmail.com)
-  [![discord](https://img.shields.io/badge/Discord-blue?color=white&logo=discord&logoColor=blue)](https://discordapp.com/users/1095532802314870894)
-  [![tеlеgrаm](https://img.shields.io/badge/Telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Ox676e67)
-
-<img alt="Machine404 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x676e67&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=less,nix,dockerfile,lua,cmake,SourcePawn,Roff,Assembly,Makefile,Shell,javascript,html,css,vue,scss,plpgsql,typescript" />
-
-<img alt="Machine 404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=0x676e67&count_private=true&include_all_commits=false&theme=react&hide_border=true&bg_color=0D1117" />
