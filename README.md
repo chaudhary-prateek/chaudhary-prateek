@@ -62,7 +62,6 @@
 
 <p align="center">
   <img alt="Machine 404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=0x676e67&count_private=true&include_all_commits=false&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="Machine404 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x676e67&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=less,nix,dockerfile,lua,cmake,SourcePawn,Roff,Assembly,Makefile,Shell,javascript,html,css,vue,scss,plpgsql,typescript" />
 </p>
 
 ---
@@ -71,7 +70,7 @@
 
 <p align="center">
   <a href="mailto:prateekchaudhary7805@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/prateek-chaudhary-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 
