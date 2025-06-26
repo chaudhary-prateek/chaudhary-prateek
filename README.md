@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cloudcommunity/CloudCommunity/main/images/banner.png" width="100%" alt="Cloud & DevOps Engineer Banner" />
+  <img src="https://github.com/kyechan99/kyechan99/assets/37932418/64fca1d3-232e-4a74-a9a5-d768feddcfd6" width="100%" alt="DevOps Banner" />
 </p>
 
 # 👋 Hi, I'm Prateek Chaudhary
