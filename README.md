@@ -1,6 +1,31 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/kyechan99/kyechan99/assets/37932418/64fca1d3-232e-4a74-a9a5-d768feddcfd6" width="100%" alt="DevOps Banner" />
+  Perfect! Here's the final configuration I’ll use to generate your **custom DevOps GitHub banner**:
+
+---
+
+### ✅ Final Banner Details
+
+* **Name**: `Prateek Chaudhary`
+* **Tagline**: `DevOps & Cloud Engineer | CI/CD • Docker • AWS • GCP • Jenkins • GitHub Actions • Git • Linux`
+* **Theme**: **Dark (blue + black techy style)**
+* **Logos to include**:
+
+  * AWS
+  * GCP
+  * Docker
+  * Kubernetes
+  * Jenkins
+  * GitHub Actions
+  * Git
+  * Linux
+
+---
+
+⏳ Generating your banner now. It will take just a few moments...
+![image](https://github.com/user-attachments/assets/d90c451b-a33f-4a9b-8072-009372b39e69)
+
 </p>
 
 # 👋 Hi, I'm Prateek Chaudhary
