@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chaudhary-prateek/chaudhary-prateek/main/Chaudhary-prateek.png" alt="Prateek Chaudhary - DevOps Banner" width="100%" />
+ <!-- <img src="https://raw.githubusercontent.com/chaudhary-prateek/chaudhary-prateek/main/Chaudhary-prateek.png" alt="Prateek Chaudhary - DevOps Banner" width="100%" /> -->
 </p>
 
 # 👋 Hi, I'm Prateek Chaudhary
